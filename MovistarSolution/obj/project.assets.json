@@ -215,11 +215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\MovistarSolution\\MovistarSolutionAPI.csproj",
+      "projectUniqueName": "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\MovistarSolution\\MovistarSolutionAPI.csproj",
       "projectName": "MovistarSolutionAPI",
-      "projectPath": "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\MovistarSolution\\MovistarSolutionAPI.csproj",
+      "projectPath": "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\MovistarSolution\\MovistarSolutionAPI.csproj",
       "packagesPath": "D:\\Users\\LauraJoya\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\MovistarSolution\\obj\\",
+      "outputPath": "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\MovistarSolution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -240,8 +240,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\Core\\Core.csproj": {
-              "projectPath": "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\Core\\Core.csproj"
+            "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\Core\\Core.csproj": {
+              "projectPath": "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\Core\\Core.csproj"
             }
           }
         }

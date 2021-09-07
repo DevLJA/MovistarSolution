@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\Core.Test\\Core.Test.csproj": {}
+    "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\Core.Test\\Core.Test.csproj": {}
   },
   "projects": {
-    "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\Core.Test\\Core.Test.csproj": {
+    "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\Core.Test\\Core.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\Core.Test\\Core.Test.csproj",
+        "projectUniqueName": "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\Core.Test\\Core.Test.csproj",
         "projectName": "CoreTest",
-        "projectPath": "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\Core.Test\\Core.Test.csproj",
+        "projectPath": "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\Core.Test\\Core.Test.csproj",
         "packagesPath": "D:\\Users\\LauraJoya\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\Core.Test\\obj\\",
+        "outputPath": "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\Core.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\Core\\Core.csproj": {
-                "projectPath": "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\Core\\Core.csproj"
+              "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\Core\\Core.csproj": {
+                "projectPath": "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\Core\\Core.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\Core\\Core.csproj": {
+    "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\Core\\Core.csproj",
+        "projectPath": "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\Core\\Core.csproj",
         "packagesPath": "D:\\Users\\LauraJoya\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\Core\\obj\\",
+        "outputPath": "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kuPvQ3YaEUeDQPpEuK+R52opftzoIdZV9uRuaEXGy9elUBUuqP6sDYrDEjTplOI6nfjfZLUH4sSReM+tHm4xFg==",
+  "dgSpecHash": "s/f/PQuyhbn6riP9HfG/hRQ6TpvEAAonCqiropyRYjso59PyyZ3dkOdMXuFI1kg2TzWEOKqv/ihRoymwtUMv4w==",
   "success": true,
-  "projectFilePath": "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\Core.Test\\Core.Test.csproj",
+  "projectFilePath": "D:\\Users\\LauraJoya\\source\\repos\\Validar\\MovistarSolution\\Core.Test\\Core.Test.csproj",
   "expectedPackageFiles": [
     "D:\\Users\\LauraJoya\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "D:\\Users\\LauraJoya\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
