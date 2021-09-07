@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cjUOFVP2VyQ9gIAeIRgLf/fhBbZ7PBvOX9JE0yo6YD2Wy9tCw3IbZ4drZ31HFohulpLT+X2dxpQOk9Ixkj5f8Q==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\LauraJoya\\source\\repos\\MovistarSolution\\MovistarSolution\\MovistarSolutionAPI.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\LauraJoya\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "D:\\Users\\LauraJoya\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "D:\\Users\\LauraJoya\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "D:\\Users\\LauraJoya\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "D:\\Users\\LauraJoya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "D:\\Users\\LauraJoya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
